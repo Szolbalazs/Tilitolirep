@@ -1,0 +1,15 @@
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\bin\Debug\TilitoliFeladat.exe.config
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\bin\Debug\TilitoliFeladat.exe
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\bin\Debug\TilitoliFeladat.pdb
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.csprojAssemblyReference.cache
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\MainWindow.g.cs
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\App.g.cs
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat_MarkupCompile.cache
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat_MarkupCompile.lref
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\MainWindow.baml
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.g.resources
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.Properties.Resources.resources
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.csproj.GenerateResource.cache
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.csproj.CoreCompileInputs.cache
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.exe
+D:\Alkalmazások\Githubrep\Tilitoli\TilitoliFeladat\TilitoliFeladat\obj\Debug\TilitoliFeladat.pdb
